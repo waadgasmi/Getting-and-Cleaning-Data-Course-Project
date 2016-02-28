@@ -74,7 +74,7 @@ TidyData.mean <- dcast(TidyData.melted, subject + activity ~ variable, mean)
 
 #Step 7:
 ############################################################################################
-#Create a second, independent tidy data set with the average of each variable 
+#Create and export a second, independent tidy data set with the average of each variable 
 #for each activity and each subject.
 ############################################################################################
 
