@@ -1,4 +1,12 @@
 # Code Book
+Date: 2016/02/28 
+Waad Gasmi
+
+
+Source Data for the project:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+
 This code book summarizes the resulting data fields in tidy.txt.
 
 Identifiers
