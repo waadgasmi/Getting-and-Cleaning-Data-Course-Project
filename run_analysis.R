@@ -59,4 +59,4 @@ TidyData.mean <- dcast(TidyData.melted, subject + activity ~ variable, mean)
 
 #Step 6:
 #Create the tidy data file. 
-write.table(TidyData.mean, "tidy.txt", row.names = FALSE, quote = FALSE)
+write.table(TidyData.mean, "tidyData.txt", row.names = FALSE, quote = FALSE)
